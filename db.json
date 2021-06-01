@@ -10,5 +10,25 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "data": [
+    {
+      "id":"1", 
+      "link":"https://www.youtube.com/watch?v=hgPTvi0OM4A",
+      "judul":"ini video pertama",
+      "deskripsi":"lorem ipsum dolor is amet ksfh hjoiaoa"
+    },
+    {
+      "id":"2", 
+      "link":"https://www.youtube.com/watch?v=hgPTvi0OM4A",
+      "judul":"ini video kedua",
+      "deskripsi":"lorem ipsum dolor is amet ksfh hjoiaoa"
+    },
+    {
+      "id":"2", 
+      "link":"https://www.youtube.com/watch?v=hgPTvi0OM4A",
+      "judul":"ini video ketiga",
+      "deskripsi":"lorem ipsum dolor is amet ksfh hjoiaoa"
+    },
+   ]
 }
